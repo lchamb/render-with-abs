@@ -1,5 +1,5 @@
-# render_with_abs
-Super lightweight A/B testing gem for building prototypes and running experiments in Rails apps.
+# render_with_abs (WIP)
+Super lightweight A/B testing gem for building prototypes and running experiments in Rails apps (work in progress, not yet published).
 
 ## Usage
 Use partials to represent different states you would like to test. For example, if you want to render a partial that contains a “Sign Up” button you would write:
