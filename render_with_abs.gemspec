@@ -8,4 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'lukechamberlin@gmail.com'
   s.files       = ['lib/render_with_abs.rb']
   s.license     = 'MIT'
+
+  s.add_dependency 'rails', '~> 3.2.0'
 end
