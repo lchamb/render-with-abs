@@ -1,1 +1,2 @@
-require 'render_with_abs/render_with_abs.rb'
+require 'render_with_abs/controller_methods.rb'
+require 'render_with_abs/railtie.rb'
